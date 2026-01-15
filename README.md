@@ -1,4 +1,4 @@
-#Airline Customer Review Analysis using NLP: Text Preprocessing, POS Tagging, Parsing & Ambiguity Resolution with NLTK
+# Airline Customer Review Analysis using NLP: Text Preprocessing, POS Tagging, Parsing & Ambiguity Resolution with NLTK
 
 This project presents a comprehensive Natural Language Processing (NLP) pipeline implemented using Python and NLTK, focusing on the analysis of real-world airline customer reviews. The objective is to demonstrate how raw textual data can be transformed, analyzed linguistically, and syntactically interpreted using classical NLP techniques.
 
